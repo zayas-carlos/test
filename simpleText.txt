@@ -1,2 +1,3 @@
 Simple text file
 I just added this last line
+more lines to be added
